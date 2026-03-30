@@ -1,2 +1,2 @@
-# AwA-gal
-Advance with AI, growing alongside love
+# AwA-GAL
+Advance with AI, Growing Alongside Love
